@@ -1,0 +1,68 @@
+ body{
+    color:blueviolet;
+    font-family:cursive;
+    font-size: 15px;
+    text-align:center;
+    background-color:black;
+    width: 90%;
+    }
+    h1{
+        font-size: 7vh;
+        text-decoration:overline;
+    }
+    h2{
+        font-size: 4vh;
+    }
+    p{
+        font-size: 1.7vh;
+    }
+ header{
+    background-color: blueviolet;
+
+ }
+ header a{
+    font-size: 20px;
+    color:white;
+    padding: 2%;
+    
+    }
+    #educacion{
+        border: 1px solid rgb(255, 255, 255);
+        margin: 10%;
+        margin-bottom: 5%;
+        padding: 7%;
+        box-shadow: 4px 4px 18px rgba(146, 53, 200, 0.376);
+        border-radius: 3%;
+    
+    }
+ #datos{
+    text-align: start;
+    border: 1px solid rgb(255, 255, 255);
+    margin: 10%;
+    padding: 7%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    box-shadow: 4px 4px 18px rgba(146, 53, 200, 0.376);
+    border-radius: 3%;
+}
+#perfilprofesional{ 
+    border: 1px solid rgb(255, 255, 255);
+    margin: 10%;
+    padding: 7%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    box-shadow: 4px 4px 18px rgba(146, 53, 200, 0.376);
+    border-radius: 3%;
+}
+#experiencia{
+    border: 1px solid rgb(255, 255, 255);
+    margin: 10%;
+    padding: 7%;
+    margin-top: 5%;
+    box-shadow: 4px 4px 18px rgba(146, 53, 200, 0.376);
+    border-radius: 3%;
+
+} 
+
+
+
