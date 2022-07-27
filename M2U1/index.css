@@ -1,11 +1,15 @@
- body{
+*{box-sizing: border-box;}
+body{
     color:blueviolet;
-    font-family:cursive;
+    font-family: 'Satisfy', cursive;
     font-size: 15px;
     text-align:center;
     background-color:black;
     width: 90%;
     }
+    #encabezado{
+        background: radial-gradient(rgb(107, 27, 161),rgba(255, 255, 255, 0.4));}
+
     h1{
         font-size: 7vh;
         text-decoration:overline;
@@ -18,22 +22,32 @@
     }
  header{
     background-color: blueviolet;
-
- }
+    
+} 
  header a{
     font-size: 20px;
     color:white;
     padding: 2%;
+    text-decoration: none;
     
+    }
+    #columna{
+        column-count: 2;
+        margin-top:  5%;
+        display: flex;
+        padding: 7%;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 4%;
+        
     }
     #educacion{
         border: 1px solid rgb(255, 255, 255);
-        margin: 10%;
         margin-bottom: 5%;
         padding: 7%;
         box-shadow: 4px 4px 18px rgba(146, 53, 200, 0.376);
         border-radius: 3%;
-    
+        
     }
  #datos{
     text-align: start;
@@ -63,6 +77,8 @@
     border-radius: 3%;
 
 } 
-
+#contactame{
+    background: radial-gradient(rgba(48, 2, 56, 0.5),rgba(255, 255, 255, 0.5));
+}
 
 
