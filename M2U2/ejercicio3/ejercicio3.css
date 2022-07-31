@@ -1,0 +1,47 @@
+.bigbox{
+    border: 1px solid rgb(0, 0, 0);
+    background-color:rgba(0, 0, 0);
+    color: white;
+    font-size: 25px;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.smallbox1{
+    border: 1px solid rgb(0, 0, 0);
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+}
+
+.smallbox2{
+    border: 1px solid rgb(0, 0, 0);
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
+.smallbox3{
+    border: 1px solid rgb(0, 0, 0);
+    width: 200px;
+    height: 200px;
+    background-color: rgb(26, 169, 26);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
+
+
+
+
