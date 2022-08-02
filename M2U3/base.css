@@ -47,6 +47,7 @@ h1{
 #contenedor{
 	display: flex;
 	flex-direction: column;
+	width: 100%;
 
 }
 nav {
